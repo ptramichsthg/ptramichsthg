@@ -41,7 +41,7 @@ Saya adalah **Mahasiswa Teknik Informatika Semester 5 (menuju Semester 6)** yang
 ---
 
 ## Kontak
-- Email: your-email@example.com
+- Email: ptramichsthg@gmail.com
 - LinkedIn: https://linkedin.com/in/username
 - Portfolio: https://your-portfolio.com
 
