@@ -2,9 +2,6 @@
 
 Hi, I'm **Putra Michael Sitohang** — you can call me **Putra**.  
 I am passionate about building web and mobile applications, and continuously learning new technologies.  
-
-I focus on mobile development using **Android (Java)** and **Flutter**, and also have experience in fullstack web development.
-
 ---
 
 # Socials
@@ -43,9 +40,6 @@ I focus on mobile development using **Android (Java)** and **Flutter**, and also
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ## Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
