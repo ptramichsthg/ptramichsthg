@@ -22,17 +22,6 @@ Passionate about building modern web and mobile applications while continuously 
 
 ---
 
-## About Me
-
-- Informatics Engineer Student
-- Full Stack & Mobile Developer
-- Passionate about building modern web and mobile applications
-- Continuously learning new technologies and best practices
-- Interested in software architecture, backend development, and UI implementation
-- Open to collaboration on interesting projects
-
----
-
 ## Tech Stack
 
 ### Programming Languages
